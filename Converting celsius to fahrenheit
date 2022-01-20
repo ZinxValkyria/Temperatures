@@ -1,0 +1,8 @@
+const kelvin = 350; //value cannot be changed for kelvin
+const Celsius = kelvin - 273;// celsius is always 273 less than kelvin 
+let fahrenheit = Fahrenheit = Celsius * (9/5) + 32;//calculate FH from celsius
+Math.floor(fahrenheit);//round down to nearest whole no.
+console.log(`The temperature is ${fahrenheit}.`)..print to screen
+let Newton = Celsius *(33/100);//newton equation
+Math.floor(Newton);//round down
+console.log(`Newton = ${Newton}`);//print result
